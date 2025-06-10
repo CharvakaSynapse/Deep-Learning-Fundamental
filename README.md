@@ -22,9 +22,7 @@ It doesn’t promise to fix bad training runs—but it will clarify what’s goi
 - Learning rate and step-size dynamics in curved loss surfaces
 - Practical relevance to training deep neural networks
 
-## File Structure
-├── Decoding_the_Hessian.pdf # Full article
-└── README.md # This file
+
 
 ## Suggested Reading
 
