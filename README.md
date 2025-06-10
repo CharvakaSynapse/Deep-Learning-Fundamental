@@ -26,11 +26,10 @@ It doesn’t promise to fix bad training runs—but it will clarify what’s goi
 
 ## Suggested Reading
 
-To dive deeper into theory and practical foundations of optimization in deep learning, consider these references:
+To dive deeper into the theory and mathematical foundations of optimization in deep learning, consider these resources:
 
-- **Christopher M. Bishop** – *Deep Learning: Foundations and Concepts* (2023)
-- **Marc Peter Deisenroth, A. A. Faisal, and Cheng Soon Ong** – *Mathematics for Machine Learning*
-- **Kevin P. Murphy** – *Probabilistic Machine Learning: An Introduction* (Volume 1, 2023)
--**Benoit Liquet, Sarat Moka, and Yoni Nazarathy** – *Mathematical Engineering of Deep Learning*  
-
+- **Christopher M. Bishop** – *Deep Learning: Foundations and Concepts* (2023)  
+- **Marc Peter Deisenroth, A. A. Faisal, and Cheng Soon Ong** – *Mathematics for Machine Learning*  
+- **Kevin P. Murphy** – *Probabilistic Machine Learning: An Introduction* (Volume 1, 2023)  
+- **Benoit Liquet, Sarat Moka, and Yoni Nazarathy** – *Mathematical Engineering of Deep Learning*  
 
