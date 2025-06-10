@@ -31,5 +31,6 @@ To dive deeper into theory and practical foundations of optimization in deep lea
 - **Christopher M. Bishop** – *Deep Learning: Foundations and Concepts* (2023)
 - **Marc Peter Deisenroth, A. A. Faisal, and Cheng Soon Ong** – *Mathematics for Machine Learning*
 - **Kevin P. Murphy** – *Probabilistic Machine Learning: An Introduction* (Volume 1, 2023)
-- **Mathematical Engineering of Deep Learning** – A structured look into curvature, conditioning, and generalization in neural networks
+-**Benoit Liquet, Sarat Moka, and Yoni Nazarathy** – *Mathematical Engineering of Deep Learning*  
+
 
