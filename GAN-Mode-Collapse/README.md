@@ -20,7 +20,7 @@ This repository contains three complementary documents that provide a complete u
 ### 2. **Practical Guide to GAN Training Stability**
 *`practical_guide_gan_training_stability.pdf`*
 
-- **Length**: 12 pages  
+- **Length**: 11 pages  
 - **Focus**: Implementation and engineering solutions
 - **Content**:
  - Detailed analysis of forward vs. reverse KL divergence
@@ -32,7 +32,7 @@ This repository contains three complementary documents that provide a complete u
 ### 3. **Mathematical Foundations of Mode Collapse in GANs**
 *`mathematical_foundations_mode_collapse_gans.pdf`*
 
-- **Length**: 18 pages
+- **Length**: 19 pages
 - **Focus**: Theoretical analysis and rigorous proofs
 - **Content**:
  - Comprehensive mathematical analysis of GAN objectives
