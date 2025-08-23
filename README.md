@@ -13,10 +13,9 @@ Short, evolving notes on core deep-learning concepts. Expect concise write-ups; 
 - Efficient inference (quantization, pruning, distillation)
 - Training at scale (DDP/FSDP, AMP, checkpointing)
 - MLOps notes (tracking, packaging, deployment)
+- Self suvervised learning ( INFONce, SIMCLR, DINO etc)
+- Generative model (GAN,VAE, Diffusion etc)
 
-## Layout
-- `docs/` — short articles
-- `notebooks/` — minimal demos
-- `figures/` — diagrams
+
 
 > WIP and updated regularly. Contributions and issues welcome.
